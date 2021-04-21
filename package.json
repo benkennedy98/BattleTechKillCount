@@ -1,0 +1,24 @@
+{
+  "name": "BattleTechKillCount",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benkennedy98/BattleTechKillCount.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benkennedy98/BattleTechKillCount/issues"
+  },
+  "homepage": "https://github.com/benkennedy98/BattleTechKillCount#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
